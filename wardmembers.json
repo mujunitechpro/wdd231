@@ -1,0 +1,28 @@
+{
+    "family_name": "Mujuni",
+    "move_in_date": "2025-08-15",
+    "number_of_people": 4,
+    "visited_by_bishopric": true,
+    "family_members": [
+        {
+            "name": "Baraka Gosbert Mujuni",
+            "gender": "Male",
+            "birthdate": "1998-07-18"
+        },
+        {
+            "name": "Neema Mujuni",
+            "gender": "Female",
+            "birthdate": "2000-04-10"
+        },
+        {
+            "name": "Joshua Mujuni",
+            "gender": "Male",
+            "birthdate": "2024-12-05"
+        },
+        {
+            "name": "Grace Mujuni",
+            "gender": "Female",
+            "birthdate": "2026-01-20"
+        }
+    ]
+}
