@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Zanzibar Coffee House",
+        "address": "Samora Avenue, Dar es Salaam",
+        "phone": "+255 22 211 0142",
+        "website": "https://www.zanzibarcoffeehouse.example.com",
+        "image": "zanzibarcoffee.jpg",
+        "membership": 3,
+        "category": "Coffee Shop",
+        "founded": 2014,
+        "description": "Locally roasted Kilimanjaro coffee and a community gathering space in the city centre."
+    },
+    {
+        "name": "Serengeti Safari Outfitters",
+        "address": "Bagamoyo Road, Dar es Salaam",
+        "phone": "+255 22 260 0178",
+        "website": "https://www.serengetisafarioutfitters.example.com",
+        "image": "serengeti.jpg",
+        "membership": 2,
+        "category": "Travel & Tours",
+        "founded": 2009,
+        "description": "Safari planning, gear rental, and coastal excursions along the Swahili coast."
+    },
+    {
+        "name": "Msasani Family Dental",
+        "address": "Chole Road, Msasani, Dar es Salaam",
+        "phone": "+255 22 260 0103",
+        "website": "https://www.msasanifamilydental.example.com",
+        "image": "dental.jpg",
+        "membership": 3,
+        "category": "Healthcare",
+        "founded": 2001,
+        "description": "General and family dentistry serving Dar es Salaam and the Msasani Peninsula."
+    },
+    {
+        "name": "Baobab Bakery",
+        "address": "Msimbazi Street, Dar es Salaam",
+        "phone": "+255 22 218 0166",
+        "website": "https://www.baobabbakery.example.com",
+        "image": "bakery.jpg",
+        "membership": 1,
+        "category": "Bakery",
+        "founded": 2021,
+        "description": "Fresh bread, mandazi, and custom cakes baked daily."
+    },
+    {
+        "name": "UDSM Print & Copy Co.",
+        "address": "Nkrumah Street, Dar es Salaam",
+        "phone": "+255 22 241 0119",
+        "website": "https://www.udsmprintcopy.example.com",
+        "image": "print.jpg",
+        "membership": 2,
+        "category": "Printing Services",
+        "founded": 2016,
+        "description": "Full-color printing, binding, and design services for students and local business."
+    },
+    {
+        "name": "Coastal Web Studio",
+        "address": "Toure Drive, Oyster Bay, Dar es Salaam",
+        "phone": "+255 22 266 0157",
+        "website": "https://www.coastalwebstudio.example.com",
+        "image": "webdesign.jpg",
+        "membership": 1,
+        "category": "Web Design",
+        "founded": 2022,
+        "description": "Small-business websites, branding, and ongoing site maintenance."
+    },
+    {
+        "name": "Oyster Bay Aquatic Center",
+        "address": "Haile Selassie Road, Oyster Bay, Dar es Salaam",
+        "phone": "+255 22 266 0188",
+        "website": "https://www.oysterbayaquatic.example.com",
+        "image": "recreation.jpg",
+        "membership": 3,
+        "category": "Recreation",
+        "founded": 1998,
+        "description": "Indoor pools, water sport lessons, and beachfront family activities."
+    },
+    {
+        "name": "Peninsula Vet Clinic",
+        "address": "Kinondoni Road, Dar es Salaam",
+        "phone": "+255 22 276 0134",
+        "website": "https://www.peninsulavetclinic.example.com",
+        "image": "vet.jpg",
+        "membership": 2,
+        "category": "Veterinary Services",
+        "founded": 2011,
+        "description": "Compassionate veterinary care for pets across the Msasani Peninsula."
+    }
+]
