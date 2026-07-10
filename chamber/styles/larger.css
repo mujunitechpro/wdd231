@@ -1,4 +1,6 @@
-
+/* =========================================================
+   larger.css — layout changes for wider viewports
+   ========================================================= */
 
 @media screen and (min-width: 640px) {
 
@@ -66,3 +68,57 @@
         grid-template-columns: 1fr;
     }
 }
+
+/* ---------- Home page ---------- */
+
+@media screen and (min-width: 640px) {
+    .hero__image {
+        height: 380px;
+    }
+
+    .hero__overlay {
+        padding: var(--space-lg);
+    }
+
+    .hero__title {
+        font-size: 2.4rem;
+        max-width: 16ch;
+    }
+
+    .hero__subtitle {
+        font-size: 1.1rem;
+    }
+
+    .home>.home__columns,
+    .home>.spotlights {
+        padding: 0 var(--space-lg);
+    }
+
+    .home__columns {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+
+    .events {
+        flex: 1.2;
+    }
+
+    .weather {
+        flex: 1;
+    }
+
+    .spotlights__list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (min-width: 960px) {
+    .hero__image {
+        height: 460px;
+    }
+
+    .spotlights__list {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
